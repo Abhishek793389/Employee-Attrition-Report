@@ -14,9 +14,6 @@ Insight: Understanding which job roles are most prone to attrition helps in targ
               ---Monthly Income and Attrition---
 Insight: Analyzing the relationship between monthly income and attrition can reveal if compensation is a significant factor in employee turnover.
 
-              ---Job Satisfaction and Attrition---
-Insight: Job satisfaction levels are often closely linked to attrition rates. Lower job satisfaction can be a strong predictor of employee turnover.
-
               ---Attrition by Age Group---
 Insight: Different age groups may have varying reasons for staying or leaving, which can inform age-specific retention strategies.
 
